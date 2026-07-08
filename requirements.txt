@@ -1,0 +1,8 @@
+torch
+git+https://github.com/openai/CLIP.git
+pandas
+numpy
+scikit-learn
+pillow
+requests
+tqdm
